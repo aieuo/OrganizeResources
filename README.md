@@ -15,3 +15,6 @@ pos1と反対側の端を設定します
 
 /organize del
 看板に追加したのを削除します
+
+/organize cancel
+設定をキャンセルします
