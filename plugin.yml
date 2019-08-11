@@ -1,0 +1,11 @@
+name: OrganizeResources
+main: aieuo\OrganizeResources
+version: 1.0
+api: 3.0.0
+load: POSTWORLD
+author: aieuo
+commands:
+ orgnize:
+  description: 人工資源を整理
+  usage: /organize <pos1 | pos2 | add | del | mode>
+  permission: op
